@@ -1,4 +1,4 @@
-# florida skinner
+# fruit loops cereal skinner
 
 ## 🥺🥺🥺🥺 pls no takey downey 👉🥺👈
 ## me want change hex color in music program 🥺🥺
@@ -7,6 +7,6 @@
 
 ### What versions does this support?
 
-Florida 20.7.1+ recommended.
+Fruit Loops Cereal 20.7.1+ recommended.
 Windows/64-bit only.
 ### [Discord](https://discord.gg/QtVBJMe)
